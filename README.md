@@ -9,3 +9,6 @@ Add a new task: Input a task name and add it to the list.
 Mark tasks as completed: Toggle tasks as complete or incomplete using a checkbox.
 
 Delete tasks: Remove tasks from the list permanently.
+
+![image](https://github.com/user-attachments/assets/610962e0-02cb-4197-a433-4ff98bb77116)
+
