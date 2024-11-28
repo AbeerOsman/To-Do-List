@@ -10,5 +10,6 @@ Mark tasks as completed: Toggle tasks as complete or incomplete using a checkbox
 
 Delete tasks: Remove tasks from the list permanently.
 
-![image](https://github.com/user-attachments/assets/610962e0-02cb-4197-a433-4ff98bb77116)
+![image](https://github.com/user-attachments/assets/703f3884-1a81-4017-8921-986bf802cb79)
+
 
